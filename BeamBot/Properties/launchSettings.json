@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BeamBot": {
+      "commandName": "Project",
+      "workingDirectory": "E:\\Projects\\VisualStudio\\2022\\beam-bot\\BeamBot"
+    }
+  }
+}
